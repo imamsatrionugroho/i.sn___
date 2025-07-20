@@ -88,6 +88,6 @@
      
    </div>
 
-<script src="https://htmlku.com/hbday/script.js"></script>
+<script src="https://html.com/hbdnisa/script.js"></script>
 </body>
 </html>
